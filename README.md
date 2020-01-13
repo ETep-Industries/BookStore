@@ -1,4 +1,4 @@
-# Create a MySQL database by using 'Run SQL Script..' in MySQL Workbench to upload the ser_team2mysql.sql schema file
+# Create a MySQL database by using 'Run SQL Script..' in MySQL Workbench to upload the BookStoreDB.sql schema file
 
 For reference the ser_team2mysql.sql schema file should start with the following:
 
@@ -24,11 +24,6 @@ To start the Java application. Enter DB_URL, USER, PASS, and JDBC_DRIVER in orde
 EX: java Book_Store <url> <user> <pwd> <driver>
 
 //////////
-
-USER LOGIN: 1
-PASSWORD: mau7fo1U
-
-ADMIN LOGIN: davetheadmin
-PASSWORD: password
+Configure before compilation, data base conection.
 
 //////////
